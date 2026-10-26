@@ -58,7 +58,6 @@ python run.py --config "**" --check-data
 图像预处理使用`tools/U2-Net-processImage.py`，显式调用U²-Net模型，输出黑底RGB图像；失败图像另存到隔离目录。训练清单仅收录成功输出。
 
 ```bash
-python -m pip install -r requirements-preprocess.txt
 python tools/U2-Net-processImage.py
 ```
 
