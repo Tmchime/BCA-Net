@@ -1,0 +1,14 @@
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I", "B"]
+
+[tool.ruff.lint.per-file-ignores]
+"**/run.py" = ["E402"]
+"**/run_all.py" = ["E402"]
+"figure_visualization/*.py" = ["E402"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["analysis", "bca_net", "common", "figure_visualization", "table2_baselines", "table3_ablations", "table4_protocols", "tools"]

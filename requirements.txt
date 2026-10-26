@@ -1,0 +1,14 @@
+torch==2.14.1
+torchvision==0.29.1
+timm==1.0.30
+numpy>=1.26,<3
+pandas>=2.2,<3
+scipy>=1.13,<2
+scikit-learn>=1.5,<2
+Pillow>=10,<14
+matplotlib>=3.8,<4
+seaborn>=0.13,<1
+openpyxl>=3.1,<4
+rembg[cpu]
+opencv-python-headless
+tqdm

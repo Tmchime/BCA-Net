@@ -1,0 +1,36 @@
+BCA-Net Non-Commercial Research License 1.0
+
+Copyright (c) 2026 BCA-Net contributors.
+
+1. Non-commercial research permission
+Permission is granted, free of charge and without prior application, to use,
+execute, copy, modify, and redistribute the original code and modifications
+solely for non-commercial scientific research and reproduction of academic
+results, subject to the conditions below.
+
+2. Attribution and redistribution
+Retain this license and applicable copyright notices in redistributed copies.
+Identify changes in modified versions. When publishing research results that
+use this software, acknowledge BCA-Net and cite the associated paper.
+Redistribution does not grant commercial rights to this code.
+
+3. Commercial use
+Commercial use requires separate prior written authorization from the relevant
+copyright holder(s). Commercial use includes incorporation into commercial
+products, paid services, and research or development primarily intended to
+support a commercial product or business. Normal academic salaries and research
+grants do not by themselves make otherwise non-commercial research commercial.
+For commercial licensing, contact the corresponding author of the associated
+paper or the repository maintainers.
+
+4. Third-party components and data
+Third-party software and model weights remain subject to their own licenses.
+This license does not grant rights to research data, third-party content, or
+patents. It does not restrict rights available under applicable law or GitHub's
+Terms of Service. No additional rights are granted beyond those stated here.
+
+5. Disclaimer
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR
+IMPLIED, TO THE EXTENT PERMITTED BY APPLICABLE LAW. THE COPYRIGHT HOLDERS AND
+CONTRIBUTORS ARE NOT LIABLE FOR CLAIMS OR DAMAGES ARISING FROM USE OF THE
+SOFTWARE, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
